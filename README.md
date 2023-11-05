@@ -1,5 +1,5 @@
 
-#EmpowerHer Legal Aid: Navigating Women's Rights with an AI Chatbot
+## EmpowerHer Legal Aid: Navigating Women's Rights with an AI Chatbot
 
 Introducing the website featuring women's legal rights information covering issues such as Immoral Trafficking, Dowry, Sati, Domestic Violence, Child Marriage, and Sexual Harassment at the workplace. Highlighting our star feature: a chatbot built using nltk, flask, and torch libraries. This chatbot can provide information on topics like 'sati' and answer queries such as 'Is performing sati sahagamanam correct?' The chatbot is trained specifically for 'sati' and handles various related scenarios.
 
