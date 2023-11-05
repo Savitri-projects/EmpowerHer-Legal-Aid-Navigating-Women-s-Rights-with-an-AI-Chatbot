@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "immoral_traffic1",
+      "patterns": [
+        "recruitment", "transportation", "abduction", "kidnapping", "transfer", "traffick"],
+      "responses": [
+        "Yes, the movement of a person from one place to another, especially if it is done by force or through deception, is a key element of human trafficking, which is a crime that is prohibited under the Immoral Traffic (Prevention) Act, 1956 in India. <br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+
+
+    {
+      "tag": "immoral_traffic2",
+      "patterns": [
+        "exploitation", "prostitution", "forced labor", "sexual exploitation" 
+      ],
+      "responses": [
+        "Recruitment or transportation of a person for the purpose of sexual exploitation or forced labor is a key element of human trafficking, which is a crime that is prohibited under the Immoral Traffic (Prevention) Act, 1956 in India. <br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+            ]
+    },
+
+    {
+      "tag": "immoral_traffic3",
+      "patterns": [
+        "harboring", "receiving", "providing shelter","assisting",
+        "receiving trafficked persons", "exploitation","escape detection",
+        "concealing person", "disguising trafficked person","false documents"
+      ],
+      "responses": [
+        "Harboring or receiving a person who has been trafficked is a violation of the Immoral Traffic (Prevention) Act, 1956 in India. The Act criminalizes the act of providing shelter or assistance to a person who has been trafficked, or of receiving a person who has been trafficked for the purpose of exploitation. <br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+
+    {
+      "tag": "immoral_traffic4",
+      "patterns": [
+        "soliciting", "running a brothel", "living on the earnings of a prostitute","procuring",
+        "offering","seeking","plying","public place","on the street","in a public area"
+      ],
+      "responses": [
+        "Soliciting for the purpose of prostitution in a public place is a violation of the Immoral Traffic (Prevention) Act, 1956 in India. The Act criminalizes the act of offering sexual services in a public place or seeking customers for the purpose of prostitution. <br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+       ]
+      
+    },
+
+
+    {
+      "tag": "immoral_traffic5",
+      "patterns": [
+        "Running brothel", "managing a brothel", "operating", "owning", "brothel", "house of prostitution", "premises", "allowing", "leasing", "permitting."
+      ],
+      "responses": [
+        "Running or managing a brothel is a violation of the Immoral Traffic (Prevention) Act, 1956 in India. A brothel is a place where sexual services are provided by prostitutes.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+            ]
+    },
+
+    {
+      "tag": "immoral_traffic6",
+      "patterns": [
+        "prostitution", "sex work", "commercial sex" ,"procuring prostitues", "persuading to practice prostitution", "forcing prostitution"
+      ],
+      "responses": [
+        "Procuring, inducing, or coercing a person to practice prostitution is a violation of the Immoral Traffic (Prevention) Act, 1956 in India. The Act criminalizes the act of persuading or forcing someone to engage in prostitution.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+    {
+      "tag": "immoral_traffic7",
+      "patterns": [
+        "force", "deception", "fraud", "physical abuse", "sexual abuse",  "emotional abuse",
+        "enslave", "manipulate",  "control"
+      ],
+      "responses": [
+        "Physical, sexual, or emotional abuse or coercion of a person to exploit them is a violation of the Immoral Traffic (Prevention) Act, 1956 in India. The Act criminalizes the act of using force, fraud, or coercion to exploit someone for the purpose of sexual exploitation or forced labor.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+    {
+      "tag": "dowry_prohibition",
+      "patterns": [
+        "dowry", "bride price", "groom price", "marriage settlement",  "wedding gifts", "offer", "demand", "request", "provide", "receive" ,"payment", "gift", "property", "valuables", "presents"
+      ],
+      "responses": [
+        "The Dowry Prohibition Act, 1961 is a law in India that prohibits the giving or taking of dowry in connection with a marriage. The act applies to all citizens of India, regardless of their religion, and it extends to all parts of the country. The act makes the giving or taking of dowry a criminal offense, punishable by imprisonment and fines. It also provides for the confiscation of any dowry that has been given or received in violation of the act.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police. "
+      ]
+    },
+    {
+      "tag": "indecent",
+      "patterns": [
+        "sexualization ", "objectification of women", "exploitation", "demeaning women", "degrading women" ,"publication", "advertising" ,"threat", "force", "intimidate", "pressure", "coerce"],
+      "responses": [
+        "The Indecent Representation of Women (Prohibition) Act, also known as the IRWPA, is a law in India that prohibits the representation of women in a manner that is derogatory, indecent, or offensive.The act applies to all forms of media, including advertising, films, publications, and the internet, and it applies to both Indian and foreign media. Under the act, it is illegal to produce, publish, or distribute any material that depicts women in a way that is intended to demean or degrade them or that is likely to offend the standards of public decency. It is also illegal to display any such material in a public place. The act provides for the seizure and destruction of any material that violates its provisions, as well as for fines and imprisonment for those who violate the act.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+    {
+      "tag": "sati",
+      "patterns": [
+        "sati", "suttee", "widow burning", "self-immolation", "commit sati", "perform sati", "execute sati", "engage self-immolation","carry out widow burning"
+      ],
+      "responses": [
+        "The Commission of Sati (Prevention) Act is a law in India that prohibits the practice of sati, which is the act of a woman immolating herself on the funeral pyre of her husband. The act applies to all citizens of India, regardless of their religion, and it extends to all parts of the country.  Under the act, it is illegal to commit sati or to abet, glorify, or attempt to commit sati. It is also illegal to promote or propagate the practice of sati or to perform any act in furtherance of such a promotion or propagation. The act provides for the confiscation of any property that has been used to commit or glorify sati, as well as for fines and imprisonment for those who violate the act.<br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    },
+    {
+      "tag": "domestic_violence",
+      "patterns": [
+        "Physical abuse","hospitalized","beaten up by her husband","hit her multiple times", "beaten up","hitting", "punching", "slapping","kicking", "pushing", "use of objects as weapons", "belt", "a bat", "a knife","a gun","Bruises", "cuts","physical violence",  "broken bones", "burn marks","hurt"
+      ],
+      "responses": [
+        "In the context of the Protection of Women from Domestic Violence Act (PWDVA), physical abuse refers to any act that causes or is likely to cause physical harm or injury to a woman within a domestic relationship.\n\n\nThis can include acts such as hitting, punching, slapping, kicking, choking, pushing, or any other form of physical violence. Physical abuse can also include the use of objects as weapons, such as a belt, a bat, a knife, or a gun.\n\n\n\nUnder the PWDVA, a woman who is subject to physical abuse can seek a protection order from the court, which will prohibit the abuser from committing domestic violence and also provide her with protection and residence. A woman can also seek an order allowing her to continue living in the shared household or to return to the shared household if she has left it. The act also provides for the appointment of protection officers who can be of assistance to the woman in such situation.\nAdditionally, the abuser may also be held liable to pay monetary relief to the woman for any losses suffered as a result of domestic violence. The act also provides for the custody of children and the court can provide suitable directions in that regard. <br><br><br><br>If you are a victim of a crime or are aware of someone who is a victim, it is important to get help as soon as possible. The police can provide assistance and protection, and can also refer you to other agencies or organizations that can provide support and assistance<br>1.Dial the emergency number 100 to reach the police. This number can be called from any phone, including a landline or mobile phone, and is toll-free.<br>2. Contact the nearest police station. You can find the contact information for your local police station online or by looking in the phone directory.<br>3. Report a crime online through the National Crime Records Bureau (NCRB) website (<a href=\"http://ncrb.gov.in\">Click here</a>). The NCRB website provides a form that you can use to report a crime or provide information about a crime that has been committed.<br>4. Use the \"Police Assistance\" mobile app. The app, which is available on the Google Play Store and Apple App Store, allows you to report a crime or request assistance from the police."
+      ]
+    }
+  ]
+}
